@@ -1,2 +1,2 @@
 # Hello-world
-Here is a test-repository for "Hello World"
+Here is a repository for projects done by Gabriel
